@@ -78,7 +78,7 @@ implements LoaderManager.LoaderCallbacks<Cursor>
                 deleteAllNotes();
                 break;
         }
-        // test comment
+
         return super.onOptionsItemSelected(item);
     }
 
