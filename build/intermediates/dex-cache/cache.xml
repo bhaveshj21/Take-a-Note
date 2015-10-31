@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bjoshi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-bfd52f16666156b3ab690f99f049e15234a1f615.jar" />
+    </item>
+    <item
+        jar="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\pre-dexed\debug\classes-a240e9fd9faff7dd755e3dd1b406b04969b59b21.jar" />
+    </item>
+    <item
+        jar="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\exploded-aar\com.github.markushi\circlebutton\1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\pre-dexed\debug\classes-43891f3d8c088d72a40a66dda7c1f5a9fca45ea1.jar" />
+    </item>
+    <item
+        jar="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1d9b9a1733dd24dbebd0367f8bc246369b517155.jar" />
+    </item>
+    <item
+        jar="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\misc\Ex_Files_NoteTaking_Android\Ex_Files_NoteTaking_Android\Exercise Files\05_UserInterface\DeleteNote\app\build\intermediates\pre-dexed\debug\classes-86a52f3a648330da3191f12e5e63446976c43b81.jar" />
+    </item>
+
+</items>
